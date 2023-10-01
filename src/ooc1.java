@@ -6,7 +6,7 @@ public class FactorialCalculator {
         Scanner scanner = new Scanner(System.in);
 
         // Prompt the user to enter a non-negative integer
-        System.out.print("Enter a non-negative integer: ");
+        System.out.print("Enter a positive number please: ");
         int n = scanner.nextInt();  // Read the input integer
 
         // Check if the entered number is negative
